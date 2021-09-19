@@ -69,10 +69,10 @@
     node-fetch "^2.6.1"
     tslib "^2.3.0"
 
-"@pikokr/command.ts@^3.0.4":
-  version "3.0.4"
-  resolved "https://registry.yarnpkg.com/@pikokr/command.ts/-/command.ts-3.0.4.tgz#59dc6467d0762c65dc62dd92b52edf0db74eae75"
-  integrity sha512-ZEzAr6yCrKIS/DfL9rxOaKPSenfWjqvPF1uLUtC3+RV3CrpiLMPLCwtm2wr+erlbbiBK0JYhP3tvCTUJe3V1Iw==
+"@pikokr/command.ts@3":
+  version "3.0.5"
+  resolved "https://registry.yarnpkg.com/@pikokr/command.ts/-/command.ts-3.0.5.tgz#253fce572ad043ff4bae7b8aaa9c1bfe82d237a7"
+  integrity sha512-liE+TMzAzuyp4uzUEQzZhleyt75yY79ogmYwB72QSYO/38HtDJ8nSz2kPlXcJsWIDEbZjpbcV5pO15IoyPeYoQ==
   dependencies:
     "@types/node" "^14.14.37"
     discord-api-types "^0.23.1"
