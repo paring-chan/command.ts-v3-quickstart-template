@@ -20,7 +20,7 @@ class Hello extends Module {
 
     @listener('ready')
     ready() {
-        console.log(`Logged in as ${this.cts.client.user!.tag}`)
+        this.logger.info(`Logged in as ${this.cts.client.user!.tag}`)
     }
 }
 
